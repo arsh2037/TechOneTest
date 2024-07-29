@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj": {}
+    "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj": {
+    "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj",
+        "projectUniqueName": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj",
         "projectName": "TechOneTest2",
-        "projectPath": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj",
+        "projectPath": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj",
         "packagesPath": "C:\\Users\\61480\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\obj\\",
+        "outputPath": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61480\\AppData\\Roaming\\NuGet\\NuGet.Config",

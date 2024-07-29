@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechOneTest2\\TechOneTest2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechOneTest2\\TechOneTest2.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechOneTest2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechOneTest2.csproj.user",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj.user",
+              "RelativeDocumentMoniker": "TechOneTest2\\TechOneTest2.csproj.user",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj.user",
+              "RelativeToolTip": "TechOneTest2\\TechOneTest2.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-07-29T14:26:02.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TechOneTest2.csproj",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj",
+              "RelativeDocumentMoniker": "TechOneTest2\\TechOneTest2.csproj",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj",
+              "RelativeToolTip": "TechOneTest2\\TechOneTest2.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T14:26:01.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\Program.cs",
+              "RelativeDocumentMoniker": "TechOneTest2\\Program.cs",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\Program.cs",
+              "RelativeToolTip": "TechOneTest2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:25:17.137Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

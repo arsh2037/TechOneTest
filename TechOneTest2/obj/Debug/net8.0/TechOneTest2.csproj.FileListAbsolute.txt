@@ -231,3 +231,16 @@ C:\Users\61480\source\repos\TechOneTest2\bin\Debug\net8.0\runtimes\win\lib\net7.
 C:\Users\61480\source\repos\TechOneTest2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\61480\source\repos\TechOneTest2\obj\Debug\net8.0\TechOneTest2.RazorAssemblyInfo.cache
 C:\Users\61480\source\repos\TechOneTest2\obj\Debug\net8.0\TechOneTest2.RazorAssemblyInfo.cs
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.csproj.AssemblyReference.cache
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.AssemblyInfoInputs.cache
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.AssemblyInfo.cs
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.csproj.CoreCompileInputs.cache
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.RazorAssemblyInfo.cache
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.RazorAssemblyInfo.cs
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.sourcelink.json
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.dll
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\refint\TechOneTest2.dll
+C:\Users\61480\Desktop\testsolution\TechOneTest\TechOneTest2\obj\Debug\net8.0\TechOneTest2.pdb

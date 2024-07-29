@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZLvvPa55QwAxntQWBPS7KUKj1ptIL9koQcJDnAVxltnE8RZSDJ7wKHuEUcbqplCqsM/gbPB2AKwf4mf3Vdy0A==",
+  "dgSpecHash": "dKKycth+F4ojmk34DNEl0G7Nhyyw5Q9ZLOfCPMgVEhnzlJTYJKt4gR+7pOIOkvRCwblaBRS2R2hTDs9MIEleng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj",
+  "projectFilePath": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\61480\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\61480\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

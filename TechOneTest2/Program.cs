@@ -1,47 +1,47 @@
-using Microsoft.EntityFrameworkCore;
-using TechOneTest2.Models;
-using TechOneTest2.Services;
-namespace TechOneTest2
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllers();
+builder.Services.AddScoped<INumberToWordsService, NumberToWordsService>();
+builder.Services.AddSpaStaticFiles(configuration =>
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
+    configuration.RootPath = "ClientApp";
+});
 
-            
+var app = builder.Build();
 
-
-
-
-            var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
-            builder.Services.AddControllers();
-            builder.Services.AddScoped<INumberToWordsService, NumberToWordsService>();
-
-            builder.Services.AddControllers();
-
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-
-            var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
-        }
-    }
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
 }
+else
+{
+    app.UseExceptionHandler("/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseSpaStaticFiles();
+}
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.UseSpa(spa =>
+{
+    spa.Options.SourcePath = "ClientApp";
+
+    if (app.Environment.IsDevelopment())
+    {
+        spa.UseReactDevelopmentServer(npmScript: "start");
+    }
+});
+
+app.Run();

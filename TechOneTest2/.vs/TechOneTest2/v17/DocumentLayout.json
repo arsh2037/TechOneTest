@@ -1,46 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\",
+  "WorkspaceRootPath": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\desktop\\testsolution\\techonetest\\techonetest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\controllers\\numbertowordscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:controllers\\numbertowordscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\desktop\\testsolution\\techonetest\\techonetest2\\techonetest2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:techonetest2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\services\\numbertowordsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:services\\numbertowordsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\services\\numbertowordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:services\\numbertowordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\services\\inumbertowordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:services\\inumbertowordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\controllers\\numbertowordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:controllers\\numbertowordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\models\\numberconversionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:models\\numberconversionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\techonetest2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:techonetest2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\source\\repos\\techonetest2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|c:\\users\\61480\\desktop\\testsolution\\techonetest\\techonetest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D751BE99-0192-402D-905F-B23027A670CA}|TechOneTest2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,144 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NumberToWordsControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Controllers\\NumberToWordsControllerTests.cs",
-              "RelativeDocumentMoniker": "Controllers\\NumberToWordsControllerTests.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Controllers\\NumberToWordsControllerTests.cs",
-              "RelativeToolTip": "Controllers\\NumberToWordsControllerTests.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:07:43.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NumberToWordsServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\NumberToWordsServiceTests.cs",
-              "RelativeDocumentMoniker": "Services\\NumberToWordsServiceTests.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\NumberToWordsServiceTests.cs",
-              "RelativeToolTip": "Services\\NumberToWordsServiceTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:06:41.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NumberToWordsController.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Controllers\\NumberToWordsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NumberToWordsController.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Controllers\\NumberToWordsController.cs",
-              "RelativeToolTip": "Controllers\\NumberToWordsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:06:59.181Z",
+              "Title": "TechOneTest2.http",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.http",
+              "RelativeDocumentMoniker": "TechOneTest2.http",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\TechOneTest2.http",
+              "RelativeToolTip": "TechOneTest2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-29T14:37:42.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Program.cs",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:49:49.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NumberToWordsService.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\NumberToWordsService.cs",
-              "RelativeDocumentMoniker": "Services\\NumberToWordsService.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\NumberToWordsService.cs",
-              "RelativeToolTip": "Services\\NumberToWordsService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAADwvy4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:05:43.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "INumberToWordsService.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\INumberToWordsService.cs",
-              "RelativeDocumentMoniker": "Services\\INumberToWordsService.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Services\\INumberToWordsService.cs",
-              "RelativeToolTip": "Services\\INumberToWordsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:04:53.615Z",
+              "WhenOpened": "2024-07-29T14:35:29.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NumberConversionModel.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Models\\NumberConversionModel.cs",
-              "RelativeDocumentMoniker": "Models\\NumberConversionModel.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Models\\NumberConversionModel.cs",
-              "RelativeToolTip": "Models\\NumberConversionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:03:18.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T09:09:40.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TechOneTest2",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj",
-              "RelativeDocumentMoniker": "TechOneTest2.csproj",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\TechOneTest2.csproj",
-              "RelativeToolTip": "TechOneTest2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-27T01:51:17.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\61480\\source\\repos\\TechOneTest2\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:10:17.546Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\61480\\Desktop\\testsolution\\TechOneTest\\TechOneTest2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T14:36:11.53Z",
               "EditorCaption": ""
             }
           ]
