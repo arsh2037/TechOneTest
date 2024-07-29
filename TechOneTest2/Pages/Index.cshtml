@@ -1,0 +1,24 @@
+﻿@page
+@using NumberToWords.Pages
+@model IndexModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Number to Words Converter</title>
+</head>
+<body>
+    <h1>Number to Words Converter</h1>
+    <form method="post">
+        <label for="inputNumber">Enter a number:</label>
+        <input type="text" id="inputNumber" name="inputNumber" />
+        <button type="submit">Convert</button>
+    </form>
+
+    @if (Model.OutputWords != null)
+    {
+        <p><strong>Output:</strong> @Model.OutputWords</p>
+    }
+</body>
+</html>
